@@ -1,0 +1,14 @@
+E:\Tecnico\Test_Guatemala\Test_Guatemala\bin\Debug\Test_Guatemala.exe
+E:\Tecnico\Test_Guatemala\Test_Guatemala\bin\Debug\Test_Guatemala.pdb
+E:\Tecnico\Test_Guatemala\Test_Guatemala\bin\Debug\Datos.dll
+E:\Tecnico\Test_Guatemala\Test_Guatemala\bin\Debug\Logica.dll
+E:\Tecnico\Test_Guatemala\Test_Guatemala\bin\Debug\Datos.pdb
+E:\Tecnico\Test_Guatemala\Test_Guatemala\bin\Debug\Logica.pdb
+E:\Tecnico\Test_Guatemala\Test_Guatemala\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\Test_Guatemala\Test_Guatemala\obj\x86\Debug\Test_Guatemala.Login.resources
+E:\Tecnico\Test_Guatemala\Test_Guatemala\obj\x86\Debug\Test_Guatemala.Menu.resources
+E:\Tecnico\Test_Guatemala\Test_Guatemala\obj\x86\Debug\Test_Guatemala.Properties.Resources.resources
+E:\Tecnico\Test_Guatemala\Test_Guatemala\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Tecnico\Test_Guatemala\Test_Guatemala\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Tecnico\Test_Guatemala\Test_Guatemala\obj\x86\Debug\Test_Guatemala.exe
+E:\Tecnico\Test_Guatemala\Test_Guatemala\obj\x86\Debug\Test_Guatemala.pdb

@@ -1,0 +1,7 @@
+E:\Tecnico\Test_Guatemala\Logica\bin\Debug\Logica.dll
+E:\Tecnico\Test_Guatemala\Logica\bin\Debug\Logica.pdb
+E:\Tecnico\Test_Guatemala\Logica\bin\Debug\Datos.dll
+E:\Tecnico\Test_Guatemala\Logica\bin\Debug\Datos.pdb
+E:\Tecnico\Test_Guatemala\Logica\obj\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\Test_Guatemala\Logica\obj\Debug\Logica.dll
+E:\Tecnico\Test_Guatemala\Logica\obj\Debug\Logica.pdb
